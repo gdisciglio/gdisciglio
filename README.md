@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Gastón_Disciglio-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gaston-disciglio/ "Connect on LinkedIn") [![Gmail Badge](https://img.shields.io/badge/-gastondisciglio@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gastondisciglio@gmail "Connect via Email")
 
 
-<h3 align="center">A passionate Full-Stack developer from Argentina</h3>
+<h2 align="center">A passionate Full-Stack developer from Argentina</h2>
 
 - 🔭 I’m currently working on my portfolio
 
