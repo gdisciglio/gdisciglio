@@ -6,6 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=gdisciglio&label=Profile%20views&color=0e75b6&style=flat" alt="gdisciglio"/>
 </p>-->
 
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=gdisciglio&theme=dracula&title=Followers,Repositories,Commits)](https://github.com/gdisciglio/github-profile-trophy)
+-->
 <h3 align="center">A passionate Full-Stack developer from Argentina</h3>
 
 - 🔭 I’m currently working on my portfolio
