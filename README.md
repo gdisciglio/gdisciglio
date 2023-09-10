@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Gastón <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 
+<h2 align="center">A passionate Full-Stack Java Developer from Argentina</h2>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Gastón_Disciglio-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gaston-disciglio/ "Connect on LinkedIn") [![Gmail Badge](https://img.shields.io/badge/-gastondisciglio@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gastondisciglio@gmail "Connect via Email")<img align="right" src="https://komarev.com/ghpvc/?username=gdisciglio&label=Profile%20views&color=0e75b6&style=flat" alt="gdisciglio"/>
 
 <!--<p align="left"> 
@@ -9,7 +11,6 @@
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=gdisciglio&theme=dracula&title=Followers,Repositories,Commits)](https://github.com/gdisciglio/github-profile-trophy)
 -->
-<h2 align="center">A passionate Full-Stack Java Developer from Argentina</h2>
 
 - 🔭 I’m currently working on my portfolio
 
