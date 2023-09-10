@@ -9,7 +9,7 @@
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=gdisciglio&theme=dracula&title=Followers,Repositories,Commits)](https://github.com/gdisciglio/github-profile-trophy)
 -->
-<h3 align="center">A passionate Full-Stack developer from Argentina</h3>
+<h2 align="center">A passionate Full-Stack developer from Argentina</h2>
 
 - 🔭 I’m currently working on my portfolio
 
@@ -20,7 +20,7 @@
 - 💬 Ask me about **anything, I am happy to help**
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+<h3 align="left">Languages and Tools:</h3>
 <p align="center">
 
 <a href="https://www.java.com/es/" target="_blank">
