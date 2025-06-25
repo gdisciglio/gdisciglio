@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gastón <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 
 <!--<h2 align="center">A passionate Software Developer from Argentina</h2>-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00DC61&width=800&lines=A+passionate+Full-Stack+Java+Developer+from+Argentina;I+have+a+passion+for+programming+and+technology!+;Always+learning+new+things!.+Contact me!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00DC61&width=700&lines=A+passionate+Software+Developer+from+Argentina;I+have+a+passion+for+programming+and+technology!;Always+learning+new+things!;Contact+me!" alt="Typing SVG" /></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gastón_Disciglio-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gaston-disciglio/ "Connect on LinkedIn") [![Gmail Badge](https://img.shields.io/badge/-gastondisciglio@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gastondisciglio@gmail "Connect via Email")<img align="right" src="https://komarev.com/ghpvc/?username=gdisciglio&label=Profile%20views&color=0e75b6&style=flat" alt="gdisciglio"/>
 
