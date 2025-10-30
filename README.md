@@ -77,12 +77,7 @@
 <a href="https://www.raspberrypi.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="50" height="50"/></a>
 
-
-
-![Snake animation](https://github.com/WandaCatellani/WandaCatellani/blob/output/github-contribution-grid-snake.svg)
-
-![](https://raw.githubusercontent.com/gdisciglio/README.md/output/github-contribution-grid-snake.svg)
-
+![](https://github.com/WandaCatellani/WandaCatellani/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
