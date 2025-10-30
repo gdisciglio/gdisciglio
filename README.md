@@ -72,7 +72,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="50" height="50"/></a>
 
 <a href="https://github.com/" target="_blank">
-<img src="https://github.com/cwand7/cwand7/blob/main/github_logo.svg" alt="github" width="50" height="50"/></a>
+<!--<<img src="https://github.com/cwand7/cwand7/blob/main/github_logo.svg" alt="github" width="50" height="50"/></a>>-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="50" height="50"/></a>
 
 <a href="https://www.raspberrypi.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="50" height="50"/></a>
