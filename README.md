@@ -26,40 +26,63 @@
 <p align="center">
 
 <a href="https://www.java.com/es/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/main/icons/java/java-original.svg" alt="java" width="50" height="50"/></a>
+<!--<<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a>-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="50" height="50"/></a>
 
 <a href="https://spring.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/main/icons/spring/spring-original.svg" alt="spring" width="50" height="50"/></a>
+<!--<<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="50" height="50"/></a>-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="50" height="50"/></a>
+
+<a href="https://kotlinlang.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/></a>
+
+<a href="https://developer.android.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="androidStudio" width="50" height="50"/></a>
 
 <a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/main/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>
+<!--<<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/main/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
+<!--<<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
 
 <a href="https://es.react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/main/icons/react/react-original.svg" alt="react" width="50" height="50"/></a>
+<!--<<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/></a>-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></a>
 
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/main/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/></a>
-  
+<!--<<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/></a>-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="react" width="50" height="50"/></a>
+
 <a href="https://www.w3.org/Style/CSS/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/main/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/></a>
+<!--<<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/></a>-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="50" height="50"/></a>
 
 <a href="https://getbootstrap.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/main/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/></a>
+<!--<<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/></a>-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="50" height="50"/></a>
 
 <a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/main/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
+<!--<<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
 
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/main/icons/git/git-original.svg" alt="git" width="50" height="50"/></a>
+<!--<<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/></a>-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="50" height="50"/></a>
 
 <a href="https://github.com/" target="_blank">
 <img src="https://github.com/cwand7/cwand7/blob/main/github_logo.svg" alt="github" width="50" height="50"/></a>
-</p>
+
+<a href="https://www.raspberrypi.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="50" height="50"/></a>
+
+
 
 ![Snake animation](https://github.com/WandaCatellani/WandaCatellani/blob/output/github-contribution-grid-snake.svg)
+
+![](https://raw.githubusercontent.com/gdisciglio/README.md/output/github-contribution-grid-snake.svg)
+
 
 
 <!--
